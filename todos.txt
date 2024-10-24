@@ -1,10 +1,10 @@
 prepare
-Clean the bag
-Fix the drawer
+Clean the cupboardFix the drawer
 add a new member
- add a new member
-Buy a camera
+Replace a memberBuy a camera
 Make soup.
 Make pizza.
 Clean the code
 Master Python!
+My newest todo is added
+And lastly
